@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Stanislaw Grin</h1>
 
 <p align="center">
-  <strong>Full Stack Developer • Product Engineer • Professional</strong><br/>
+  <strong>Full Stack Developer<br/>
   10+ years of experience | React, Next.js, Node.js, TypeScript | Focused on business impact
 </p>
 
@@ -17,7 +17,7 @@ Strong believer in cross-functional collaboration, continuous improvement, and m
 
 ---
 
-## ⚙️ Tech Stack & Core Skills
+### ⚙️ Tech Stack & Core Skills
 
 ### 🖥️ Frontend  
 React, Next.js (App Router), TypeScript, Tailwind CSS, shadcn/ui, Zustand, TanStack Query, Vite, Cypress, Jest, Vitest, React Testing Library
@@ -49,14 +49,9 @@ Jest, Vitest, Cypress, React Testing Library, Sentry
 
 ---
 
-📈 **Impact Highlights**
-
-- Proposed and delivered features that evolved into core parts of the platform  
-- Conducted 50+ interviews, hired 9 engineers, and mentored 10+ developers  
-- Reviewed 1000+ PRs and delivered 4000+ comments to improve team velocity and code quality  
-- Authored 15+ tutorials, sample apps, and guides adopted by thousands of users  
-- Contributed [1,700+ support responses](https://support.backendless.com/u/stanislaw.grin/summary), boosting self-service success rate by 20%  
-- Built a component library reused across all console modules, improving consistency and dev speed
+📈 **GitHub stats**
+  
+<a href="http://www.github.com/stanislaw-grin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stanislaw-grin&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ---
 
@@ -69,6 +64,8 @@ Check out my guitar journey on [YouTube](https://www.youtube.com/@stanislaw_grin
 
 📫 **Connect**
 
-- 🌐 [stanislaw.dev](https://stanislaw.dev)
-- 📝 [LinkedIn](https://www.linkedin.com/in/stanislawgrin/)
-- 📚 [Blog at Backendless](https://backendless.com/author/stanislaw-grin/)
+* 🇺🇦  I'm based in Kyiv, Ukraine
+* 🖥️  See my portfolio at [https://stanislaw.dev](https://stanislaw.dev)
+* ✉️  You can contact me at [stanislaw.grin@gmail.com](mailto:stanislaw.grin@gmail.com)
+* 📝  Find me on [LinkedIn](https://www.linkedin.com/in/stanislawgrin/)
+* 🤝  I'm open to collaborating on interesting projects
