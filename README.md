@@ -5,10 +5,6 @@
   10+ years of experience | React, Next.js, Node.js, TypeScript | Focused on business impact
 </p>
 
----
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
---
-
 🧠 **About**
 
 Product-oriented Full Stack Developer with over 10 years of experience delivering web applications, platforms, and internal tools. Known for transforming ideas into scalable solutions that prioritize real user needs, clean architecture, and long-term maintainability.
