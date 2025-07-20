@@ -62,27 +62,6 @@ Jest, Vitest, Cypress, React Testing Library, Sentry
 
 ---
 
-📊 **GitHub Stats**
-
-<div align="center">
-  <div>
-    <img  
-      src="https://github-readme-stats.vercel.app/api?username=stanislav-grin&show_icons=true&theme=tokyonight"
-      height="195" 
-        alt="GitHub Stats"
-    />
-  </div>
-  <div>
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanislav-grin&layout=compact&theme=tokyonight" 
-      height="195" 
-      alt="Top Languages"
-    />
-  </div>
-</div>
-
----
-
 ⚡️ **Life & Hobbies**
 
 Outside of work, I actively play electric guitar 🎸, constantly honing my skills and experimenting with guitar effect pedals 🎛️ to craft my signature tone. I also collect vinyl records 🎶 — a way to connect deeply with music and keep the creative spark alive.  
