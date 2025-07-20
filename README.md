@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Stanislaw Grin</h1>
 
 <p align="center">
-  <strong>Full Stack Developer • Product Engineer • Builder of Scalable Systems</strong><br/>
+  <strong>Full Stack Developer • Product Engineer • Professional</strong><br/>
   10+ years of experience | React, Next.js, Node.js, TypeScript | Focused on business impact
 </p>
 
