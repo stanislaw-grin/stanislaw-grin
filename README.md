@@ -49,12 +49,6 @@ Jest, Vitest, Cypress, React Testing Library, Sentry
 
 ---
 
-📈 **GitHub stats**
-  
-<a href="http://www.github.com/stanislaw-grin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stanislaw-grin&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
----
-
 ⚡️ **Life & Hobbies**
 
 Outside of work, I actively play electric guitar 🎸, constantly honing my skills and experimenting with guitar effect pedals 🎛️ to craft my signature tone. I also collect vinyl records 🎶 — a way to connect deeply with music and keep the creative spark alive.  
